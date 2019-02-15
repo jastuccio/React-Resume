@@ -1,5 +1,5 @@
 # Resume Renderer
-Render resumes as static webistes.
+Render resumes as static websites.
 
 Demo site: reactresume.netlify.com
 # Installation
